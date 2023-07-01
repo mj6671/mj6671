@@ -4,7 +4,7 @@
 - can code in 
 
 <!---
-mj6671/mj6671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mj6671/mj6671 is a ✨ special ✨ repository because its `Readme🔱.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
