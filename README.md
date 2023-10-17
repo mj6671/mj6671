@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahi and I'm a programmer....!</p>
+<p align="left"> I'm a programmer....!</p>
 
 ###
 
