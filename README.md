@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2020<br>📚 I'm currently learning  AI&ML<br>🎯 Goals: become great at coding<br>🎲 Fun fact:  I'm a programmer</p>
+<p align="left"><br>📚 I'm currently learning  AI&ML<br><br>🎲 Fun fact:  I'm a programmer</p>
 
 ###
 
